@@ -1,0 +1,9 @@
+#Ghidra Lock File
+#Sun Jul 17 17:53:26 TRT 2022
+OS\ Name=Linux
+OS\ Version=5.18.0-kali5-amd64
+Username=biyik
+Hostname=biyik
+<META>\ Supports\ File\ Channel\ Locking=Channel Lock
+OS\ Architecture=amd64
+Timestamp=7/17/22, 5\:53 PM
