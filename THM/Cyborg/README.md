@@ -38,7 +38,7 @@ The results we got from the “dirb” command were /admin and /etc page.
 [![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Cyborg/img/3.png)](https://tryhackme.com/p/biyik)
 
 
-	- we can see other link to when my mouse on “download” button. And click&save In order to we analyze for folder and documents. Let’s extract file on my machine and go to “final_archive” document directory. And write “ls” command. We see that,
+### - we can see other link to when my mouse on “download” button. And click&save In order to we analyze for folder and documents. Let’s extract file on my machine and go to “final_archive” document directory. And write “ls” command. We see that,
 
 
 [![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Cyborg/img/4.png)](https://tryhackme.com/p/biyik)
@@ -52,63 +52,72 @@ The results we got from the “dirb” command were /admin and /etc page.
 
 ---
 
-$apr1$BpZ.Q.1m$F0qqPwHSOG50URuOVQTTn. 
+	 - $apr1$BpZ.Q.1m$F0qqPwHSOG50URuOVQTTn. 
+
 
 ## We need a passphrase for key found So See other page look
 
----
 
 # THE ETC PAGE IS
 
 
 [![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Cyborg/img/6.png)](https://tryhackme.com/p/biyik)
 
+---
 
 ## click to passwd and see that:
 
 
 [![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Cyborg/img/7.png)](https://tryhackme.com/p/biyik)
 
+---
 
 ## we search to hashcat example list on 
 
 
 [![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Cyborg/img/8.png)](https://tryhackme.com/p/biyik)
 
+---
 
 ## So I create passwd.hash documents while use to hashcat tool with -m 1600 parameters with passwd.hash. 
 
 
 [![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Cyborg/img/9.png)](https://tryhackme.com/p/biyik)
 
+---
 
 ## And I got this result.
 
 
 [![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Cyborg/img/10.png)](https://tryhackme.com/p/biyik)
 
-- squidward
+---
+
+	- squidward
 
 ### And we can look the home folder in and can find username and password for ssh.
 
 
 [![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Cyborg/img/11.png)](https://tryhackme.com/p/biyik)
 
-
-# YES THAT’S IT.
-
 ---
 
+## YES THAT’S IT.
 
-# --- user flag ------
 
-## -ssh alex@machine_ıp
+# LAST POINT
+
+ --- user flag ------
+
+## we write on my terminal this command 
+
+ 	- ssh alex@machine_ıp
 
 
 ## and for password S3cretP@g3 and login.
 
 
-- “Cat user.txt”  we found user flag.
+### “Cat user.txt”  we found user flag.
 
 *** 
 
@@ -124,6 +133,7 @@ We run the “sudo -l” command to find out our permission and we see permissio
 
 [![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Cyborg/img/13.png)](https://tryhackme.com/p/biyik)
 
+***
 
 # we can find googling q-2 and q-3
 
