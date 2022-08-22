@@ -8,11 +8,11 @@
 	- /secret 
 
 ---
-![gobuster](https://github.com/Onur-TURAN/THM/blob/main/gamingserver/img/e_1-1.png)
+![gobuster](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/gamingserver/img/e_1-1.png)
 
 ##That's it was found with dirb
 
-![dirb](https://github.com/Onur-TURAN/THM/blob/main/gamingserver/img/e_1-2.png)
+![dirb](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/gamingserver/img/e_1-2.png)
 
 ---
 
@@ -24,15 +24,15 @@ These were found with nmap
 
 ---
 
-![nmap](https://github.com/Onur-TURAN/THM/blob/main/gamingserver/img/e_1-3.png)
+![nmap](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/gamingserver/img/e_1-3.png)
 
 ---
 
 ## elimizde olan verileri inceliyoruz.
 
 
-![img](https://github.com/Onur-TURAN/THM/blob/main/gamingserver/img/e_1-4.png)
-![img](https://github.com/Onur-TURAN/THM/blob/main/gamingserver/img/e_1-5.png)
-![img](https://github.com/Onur-TURAN/THM/blob/main/gamingserver/img/e_1-6.png)
-![img](https://github.com/Onur-TURAN/THM/blob/main/gamingserver/img/e_1-7.png)
-![img](https://github.com/Onur-TURAN/THM/blob/main/gamingserver/img/e_1-8.png)
+![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/gamingserver/img/e_1-4.png)
+![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/gamingserver/img/e_1-5.png)
+![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/gamingserver/img/e_1-6.png)
+![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/gamingserver/img/e_1-7.png)
+![img](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/gamingserver/img/e_1-8.png)
