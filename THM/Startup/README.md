@@ -120,6 +120,7 @@
 
 ## root flag ı için kullanıcı değiştirmemiz gerek bunu yapmak için bir tane daha ters kabuk veya yetki yükseltmemiz gerekecek ama lennie grubu beklediğimiz yetkileri alamıyoruz "sudo -l" 
 
+ 
 ## scripts klasörünü inceliyoruz burada "startup_list.txt" ve "planner.sh" adında iki tane dosya bulunmakta, .sh dosyasını görüntülediğimizde üst dizinde olan bir .sh dosyası çalıştırarak .txt dökümanına bir şeyler yansıtmakta. 
 
 ### burada bir döngü yakalıyoruz ve bu döngüyü kendi amacımız için kullanabiliriz. üst dizini lennie oturumunda yazabilmesi için print.sh dökümanı yetkilerindeyiz. Bu yetkiyi kullanarak olduğu dizindeki yetkileri alabilmek için kabuk komutunu kullanıyoruz. bunu /etc/print.sh scriptinde yapıyoruz. port olarak ilk 8080 kullandım 1234'te zaten bir kabuk kullandığımız için çalışmayacaktır.
@@ -132,6 +133,6 @@
 
 ---
 
-## buradan da root flagını bu şekilde bulduk
+## Buradan da root flagını bu şekilde bulduk
 
 [![root-flag](https://github.com/Onur-TURAN/H4CK-D/blob/main/THM/Startup/img/4-3.png)](https://https://tryhackme.com/p/biyik)
